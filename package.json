@@ -13,7 +13,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "XdKing2",
+  "author": "Siddi",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
